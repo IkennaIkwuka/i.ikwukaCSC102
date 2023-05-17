@@ -1,7 +1,7 @@
 id,file_path,file_size,line_count,extension,language
 1,Markdown/000001.md,34784,572,md,Markdown
 2,XML/000002.props,3013,44,props,XML
-3,Text/000003.txt,1076,21,txt,Text
+3,Text/000003.txt,1076,21,txt,Textt
 4,Markdown/000004.md,8105,84,md,Markdown
 5,Markdown/000005.md,2763,41,md,Markdown
 6,Markdown/000006.md,2030,32,md,Markdown

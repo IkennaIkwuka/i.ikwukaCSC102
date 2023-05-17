@@ -1,5 +1,5 @@
 ,App Name,App Id,Category,Developer Id,Developer Website,Developer Email,Content Rating,Ad Supported,In App Purchases
-1,Google Play services,com.google.android.gms,Tools,Google LLC,https://developers.google.com/android/google-play-services/,apps-help@google.com,Everyone,False,False
+1,Google Play services,com.google.android.gms,Tools,Gooogle LLC,https://developers.google.com/android/google-play-services/,apps-help@google.com,Everyone,False,False
 2,YouTube,com.google.android.youtube,Video Players & Editors,Google LLC,https://support.google.com/youtube/topic/2422554?rd=1,ytandroid-support@google.com,Teen,True,False
 3,Google,com.google.android.googlequicksearchbox,Tools,Google LLC,https://www.google.com/search/about/,apps-help@google.com,Everyone,True,False
 4,Google Maps - Navigate & Explore,com.google.android.apps.maps,Travel & Local,Google LLC,http://maps.google.com/about/,apps-help@google.com,Everyone,True,False
